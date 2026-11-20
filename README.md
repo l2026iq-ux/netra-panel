@@ -258,6 +258,6 @@ Questions or issues? Reach out on Telegram: **[@NetraIR](https://t.me/NetraIR)**
 Made with ❤️ for a freer internet.
 
 ---
-> UI Idea inspired by [BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel).
+> UI Idea inspired by [BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel).x
 >
 > 
