@@ -1,6 +1,7 @@
 name = "netra-panel"
 main = "worker.js"
 compatibility_date = "2025-01-01"
+compatibility_flags = ["nodejs_compat"]
 
 [vars]
 UUID = "7c3e9a12-4b5d-4f8e-a1c2-9d8e7f6a5b4c"
